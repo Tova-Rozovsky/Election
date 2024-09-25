@@ -15,4 +15,4 @@ Technologies used
 
 React
 Node.js
-mySql server
+mySql 
